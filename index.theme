@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Ubuntosh
+Type=X-GNOME-Metatheme
+Comment=Ubuntu Yaru theme - forked with a stylish Blue base color and some macOS buttons
+Encoding=UTF-8
+GtkTheme=Ubuntosh
+IconTheme=Ubuntosh-Icons
+CursorTheme=Yaru
+CursorSize=24
